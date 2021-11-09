@@ -1,0 +1,60 @@
+[2021-11-08 10:26:47] [ ERROR] [ServidorH2:31] || CANNOT REPEAT AN ID ||Table "DENTISTA" not found; SQL statement:
+INSERT INTO Dentista VALUES('1','Helmut','Reusch','101' ) [42102-199]
+[2021-11-08 10:26:47] [ ERROR] [ServidorH2:31] || CANNOT REPEAT AN ID ||Table "DENTISTA" not found; SQL statement:
+INSERT INTO Dentista VALUES('2','Rodrigo','Rocha','102' ) [42102-199]
+[2021-11-08 10:26:48] [ ERROR] [ServidorH2:31] || CANNOT REPEAT AN ID ||Table "DENTISTA" not found; SQL statement:
+INSERT INTO Dentista VALUES('3','Lauriani','Muller','103' ) [42102-199]
+[2021-11-08 10:33:56] [ ERROR] [ServidorH2:31] || CANNOT REPEAT AN ID ||Table "DENTISTA" not found; SQL statement:
+INSERT INTO Dentista VALUES('1','Helmut','Reusch','101' ) [42102-199]
+[2021-11-08 10:33:56] [ ERROR] [ServidorH2:31] || CANNOT REPEAT AN ID ||Table "DENTISTA" not found; SQL statement:
+INSERT INTO Dentista VALUES('2','Rodrigo','Rocha','102' ) [42102-199]
+[2021-11-08 10:33:56] [ ERROR] [ServidorH2:31] || CANNOT REPEAT AN ID ||Table "DENTISTA" not found; SQL statement:
+INSERT INTO Dentista VALUES('3','Lauriani','Muller','103' ) [42102-199]
+[2021-11-08 10:34:18] [ ERROR] [ServidorH2:31] || CANNOT REPEAT AN ID ||Table "DENTISTA" not found; SQL statement:
+INSERT INTO Dentista VALUES('1','Helmut','Reusch','101' ) [42102-199]
+[2021-11-08 10:34:18] [ ERROR] [ServidorH2:31] || CANNOT REPEAT AN ID ||Table "DENTISTA" not found; SQL statement:
+INSERT INTO Dentista VALUES('2','Rodrigo','Rocha','102' ) [42102-199]
+[2021-11-08 10:34:18] [ ERROR] [ServidorH2:31] || CANNOT REPEAT AN ID ||Table "DENTISTA" not found; SQL statement:
+INSERT INTO Dentista VALUES('3','Lauriani','Muller','103' ) [42102-199]
+[2021-11-08 10:49:50] [ ERROR] [ServidorH2:31] || CANNOT REPEAT AN ID ||Table "DENTISTA" not found; SQL statement:
+INSERT INTO Dentista VALUES('1','Helmut','Reusch','101' ) [42102-199]
+[2021-11-08 10:49:50] [ ERROR] [ServidorH2:31] || CANNOT REPEAT AN ID ||Table "DENTISTA" not found; SQL statement:
+INSERT INTO Dentista VALUES('2','Rodrigo','Rocha','102' ) [42102-199]
+[2021-11-08 10:49:50] [ ERROR] [ServidorH2:31] || CANNOT REPEAT AN ID ||Table "DENTISTA" not found; SQL statement:
+INSERT INTO Dentista VALUES('3','Lauriani','Muller','103' ) [42102-199]
+[2021-11-08 10:50:38] [ ERROR] [ServidorH2:31] || CANNOT REPEAT AN ID ||Table "DENTISTA" not found; SQL statement:
+INSERT INTO Dentista VALUES('1','Helmut','Reusch','101' ) [42102-199]
+[2021-11-08 10:50:38] [ ERROR] [ServidorH2:31] || CANNOT REPEAT AN ID ||Table "DENTISTA" not found; SQL statement:
+INSERT INTO Dentista VALUES('2','Rodrigo','Rocha','102' ) [42102-199]
+[2021-11-08 10:50:38] [ ERROR] [ServidorH2:31] || CANNOT REPEAT AN ID ||Table "DENTISTA" not found; SQL statement:
+INSERT INTO Dentista VALUES('3','Lauriani','Muller','103' ) [42102-199]
+[2021-11-08 10:55:32] [ ERROR] [ServidorH2:31] || CANNOT REPEAT AN ID ||Table "DENTISTA" not found; SQL statement:
+INSERT INTO Dentista VALUES('1','Helmut','Reusch','101' ) [42102-199]
+[2021-11-08 10:55:32] [ ERROR] [ServidorH2:31] || CANNOT REPEAT AN ID ||Table "DENTISTA" not found; SQL statement:
+INSERT INTO Dentista VALUES('2','Rodrigo','Rocha','102' ) [42102-199]
+[2021-11-08 10:55:32] [ ERROR] [ServidorH2:31] || CANNOT REPEAT AN ID ||Table "DENTISTA" not found; SQL statement:
+INSERT INTO Dentista VALUES('3','Lauriani','Muller','103' ) [42102-199]
+[2021-11-08 10:56:46] [ ERROR] [ServidorH2:31] || CANNOT REPEAT AN ID ||Table "DENTISTA" not found; SQL statement:
+INSERT INTO Dentista VALUES('1','Helmut','Reusch','101' ) [42102-199]
+[2021-11-08 10:56:46] [ ERROR] [ServidorH2:31] || CANNOT REPEAT AN ID ||Table "DENTISTA" not found; SQL statement:
+INSERT INTO Dentista VALUES('2','Rodrigo','Rocha','102' ) [42102-199]
+[2021-11-08 10:56:46] [ ERROR] [ServidorH2:31] || CANNOT REPEAT AN ID ||Table "DENTISTA" not found; SQL statement:
+INSERT INTO Dentista VALUES('3','Lauriani','Muller','103' ) [42102-199]
+[2021-11-08 11:02:07] [ DEBUG] [ServidorH2:69] O Dentista: 1 foi cadastrado!
+[2021-11-08 11:02:07] [ DEBUG] [ServidorH2:69] O Dentista: 2 foi cadastrado!
+[2021-11-08 11:02:07] [ DEBUG] [ServidorH2:69] O Dentista: 3 foi cadastrado!
+[2021-11-08 11:02:07] [ DEBUG] [ServidorH2:93] O Dentista: 1 foi cadastrado!
+[2021-11-08 11:02:07] [ DEBUG] [ServidorH2:93] O Dentista: 2 foi cadastrado!
+[2021-11-08 11:02:07] [ DEBUG] [ServidorH2:93] O Dentista: 3 foi cadastrado!
+[2021-11-08 11:05:18] [ ERROR] [ServidorH2:31] || CANNOT REPEAT AN ID ||Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.DENTISTA(ID) [1, 'Helmut', 'Reusch', 101]"; SQL statement:
+INSERT INTO Dentista VALUES('1','Helmut','Reusch','101' ) [23505-199]
+[2021-11-08 11:05:18] [ DEBUG] [ServidorH2:69] O Dentista: 1 foi cadastrado!
+[2021-11-08 11:05:18] [ ERROR] [ServidorH2:31] || CANNOT REPEAT AN ID ||Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.DENTISTA(ID) [2, 'Rodrigo', 'Rocha', 102]"; SQL statement:
+INSERT INTO Dentista VALUES('2','Rodrigo','Rocha','102' ) [23505-199]
+[2021-11-08 11:05:18] [ DEBUG] [ServidorH2:69] O Dentista: 2 foi cadastrado!
+[2021-11-08 11:05:18] [ ERROR] [ServidorH2:31] || CANNOT REPEAT AN ID ||Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.DENTISTA(ID) [3, 'Lauriani', 'Muller', 103]"; SQL statement:
+INSERT INTO Dentista VALUES('3','Lauriani','Muller','103' ) [23505-199]
+[2021-11-08 11:05:18] [ DEBUG] [ServidorH2:69] O Dentista: 3 foi cadastrado!
+[2021-11-08 11:05:18] [ DEBUG] [ServidorH2:93] O Dentista: 1 foi cadastrado!
+[2021-11-08 11:05:18] [ DEBUG] [ServidorH2:93] O Dentista: 2 foi cadastrado!
+[2021-11-08 11:05:18] [ DEBUG] [ServidorH2:93] O Dentista: 3 foi cadastrado!
